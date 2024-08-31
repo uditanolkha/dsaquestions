@@ -1,3 +1,5 @@
+// The case value must be of switch expression type only. The case value must be literal or constant. 
+// It doesn't allow variables.
 import java.util.Scanner;
 
 public class Switch {
